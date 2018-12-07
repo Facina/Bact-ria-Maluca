@@ -1,0 +1,7 @@
+Instruções básicas:
+
+aperte a tecla 'c' para mostrar as estatisticas
+aperte 'd' para esconder as estatisticas
+
+'p' pausa o jogo
+'r' resume o jogo
